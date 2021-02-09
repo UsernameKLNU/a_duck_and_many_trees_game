@@ -31,3 +31,7 @@
 
 * for PXT/arcade
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+一只鸭子和许多树木的游戏。
+当鸭子碰到树时，你就是失败者。
+（在Chrome上，当未连接到互联网时，请按Space玩恐龙游戏，该游戏基于恐龙游戏）
